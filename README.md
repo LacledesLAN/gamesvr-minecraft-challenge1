@@ -38,10 +38,7 @@ Prevents players besides OP and players listed on the whitelist form connectiong
 ## Coordinates for Teleportation ##
 
 ### Jail ###
-590, 64, 500
-
-### Outside Everything (Near Jail) ###
-599, 83, 534
+-189, 53, -141
 
 ### Islands ###
 | Island | Spawn Room         | Front Door         | Mid Air            | 
