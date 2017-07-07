@@ -1,6 +1,6 @@
 
-# LL17 Minecraft Challenge Map
-![alt text](https://github.com/LacledesLAN/data-MinecraftChallengeMap/raw/master/Overhead_Map.png "Overhead Map")
+# LL Minecraft Challenge Map #1
+![alt text](https://github.com/LacledesLAN/data-MinecraftChallengeMap/raw/master/OverheadMap.png "Overhead Map")
 
 ## Commands Cheatsheet
 
